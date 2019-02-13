@@ -1,1 +1,1 @@
-# Recommendation-System-with-Collaborative-Filtering-and-Deep-Learning-Techniques
+# Recommender-Systems-with-Collaborative-Filtering-and-Deep-Learning-Techniques
